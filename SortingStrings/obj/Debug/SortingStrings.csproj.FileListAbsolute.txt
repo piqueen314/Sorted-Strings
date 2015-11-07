@@ -1,0 +1,9 @@
+C:\Code\SortingStrings\SortingStrings\bin\Debug\SortingStrings.exe.config
+C:\Code\SortingStrings\SortingStrings\obj\Debug\SortingStrings.csprojResolveAssemblyReference.cache
+C:\Code\SortingStrings\SortingStrings\obj\Debug\SortingStrings.stringsForm.resources
+C:\Code\SortingStrings\SortingStrings\obj\Debug\SortingStrings.Properties.Resources.resources
+C:\Code\SortingStrings\SortingStrings\obj\Debug\SortingStrings.csproj.GenerateResource.Cache
+C:\Code\SortingStrings\SortingStrings\bin\Debug\SortingStrings.exe
+C:\Code\SortingStrings\SortingStrings\bin\Debug\SortingStrings.pdb
+C:\Code\SortingStrings\SortingStrings\obj\Debug\SortingStrings.exe
+C:\Code\SortingStrings\SortingStrings\obj\Debug\SortingStrings.pdb
